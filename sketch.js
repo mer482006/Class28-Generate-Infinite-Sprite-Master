@@ -4,9 +4,9 @@ var score=0;
 var wormGroup;
 
 function preload() {
-  playerImage=loadImage("images/frog.png")
-  swampImage=loadImage("images/swampImg.png")
-  wormImage=loadImage("images/worm.png")
+  playerImage=loadImage("frog.png")
+  swampImage=loadImage("swampImg.png")
+  wormImage=loadImage("worm.png")
 }
 
 function setup() {
